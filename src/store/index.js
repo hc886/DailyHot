@@ -154,6 +154,12 @@ export const mainStore = defineStore("mainData", {
           order: 23,
           show: true,
         },
+        {
+          label: "电影天堂",
+          name: "dytt",
+          order: 24,
+          show: true,
+        },
       ],
       newsArr: [],
       // 链接跳转方式
